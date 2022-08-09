@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+
+/* .full-landing-image {
+  width: 100%;
+  height: 100vh;
+  /* background: url(./Resources/wallpaper.jpeg) no-repeat center; */
+  background-color: rgb(17, 17, 51);
+  background-size: cover;
+} */
